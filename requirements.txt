@@ -1,10 +1,10 @@
 #Github.com-Vasusen-code
 
 https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
-ethon==0.1.5
+ethon
 cryptg
 tgcrypto
-Pyrogram
+Pyrogram==2.0.77
 psutil
 opencv-python-headless
 python-decouple
