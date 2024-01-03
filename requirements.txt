@@ -4,7 +4,7 @@ https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
 ethon
 cryptg
 tgcrypto
-Pyrogram==2.0.77
+Pyrogram
 psutil
 opencv-python-headless
 python-decouple
