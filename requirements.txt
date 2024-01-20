@@ -8,3 +8,5 @@ Pyrogram
 python-decouple
 requests
 speedtest-cli
+psutil
+opencv-python-headless
