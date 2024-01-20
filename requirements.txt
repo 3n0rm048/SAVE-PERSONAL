@@ -7,3 +7,4 @@ tgcrypto
 Pyrogram
 python-decouple
 requests
+speedtest-cli
